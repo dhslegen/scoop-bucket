@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dhslegen/base-code/releases/download/v0.1.2/base-code_0.1.2_windows_amd64.zip",
+            "bin": [
+                "base-code.exe"
+            ],
+            "hash": "bdaec92d3502fb4752dd0adbaa9d74e0b272900c4f263a42ec5d1577359e78da"
+        },
+        "arm64": {
+            "url": "https://github.com/dhslegen/base-code/releases/download/v0.1.2/base-code_0.1.2_windows_arm64.zip",
+            "bin": [
+                "base-code.exe"
+            ],
+            "hash": "66ba5414d86bb6189b14ad7a7bb2c0af6ac114994b7056f4d8fc0e55c82f9507"
+        }
+    },
+    "homepage": "https://github.com/dhslegen/base-code",
+    "license": "MIT",
+    "description": "数据库代码生成器 CLI"
+}
