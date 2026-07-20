@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dhslegen/base-code/releases/download/v0.3.0/base-code_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/dhslegen/base-code/releases/download/v0.4.0/base-code_0.4.0_windows_amd64.zip",
             "bin": [
                 "base-code.exe"
             ],
-            "hash": "ae6083c0b67bf97859a34ebacb69ed74bccc738d66b936d18342cc037f1e5e9a"
+            "hash": "d9de1d48af3a9a9e67a53230bd2757173242cacdac77be928686c77bb6dccf88"
         },
         "arm64": {
-            "url": "https://github.com/dhslegen/base-code/releases/download/v0.3.0/base-code_0.3.0_windows_arm64.zip",
+            "url": "https://github.com/dhslegen/base-code/releases/download/v0.4.0/base-code_0.4.0_windows_arm64.zip",
             "bin": [
                 "base-code.exe"
             ],
-            "hash": "47a474807bc102267b827f7be2602c38d04d5cafb9bcade4c715daf3edb5cd49"
+            "hash": "dbab38709ce5b35f2b21f3a6d26180dcbd586eaee5542b910123bcf38649438c"
         }
     },
     "homepage": "https://github.com/dhslegen/base-code",
